@@ -23,5 +23,5 @@ npx playwright test
 _Дождитесь окончание запуска теста и в папке **output** появится результат тестов 
 три скриншота_
 
-- ### Для более глубокого ознакомнления с библиотекой Playwright
+- ### Для более глубокого ознакомления с библиотекой Playwright
 [Ссылка на библиотеку](https://playwright.dev/docs/test-timeouts#:~:text=Change%20timeout%20for%20beforeAll%20%2F%20afterAll,setTimeout()%20inside%20the%20hook.&text=%2F%2F%20Set%20timeout%20for%20this%20hook.) 
